@@ -5,5 +5,3 @@
 **English** | [**简体中文**](docs/cn/README.md)
 
 </div>
-
-## Introduction
