@@ -1,7 +1,1 @@
-<div align="center">
-
-# mykodb
-
-**English** | [**简体中文**](docs/cn/README.md)
-
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mykodb&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
